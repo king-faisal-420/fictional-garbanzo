@@ -1,0 +1,59 @@
+.logo {
+    max-width: 60%;
+
+}
+.text2{
+    padding-top: 50px;
+}
+.pichy {
+    background-color: #23B34E;
+}
+.heading{
+    font-size: 20px;
+}
+.heading1{
+    font-weight: 900;
+}
+.order{
+    background: #000;
+    border: none;
+    padding-inline: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    font-size: 22px;
+    font-weight: 900;
+}
+.bg{
+    background-color: #FED304;
+    ;
+}
+.dot{
+    text-decoration: none;
+}
+.behind{
+    background: #000;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    .order{
+        background: rgb(233, 13, 13);
+        border: none;
+         padding-inline: 20px;
+       
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .heading{
+        font-size: 16px;
+    }
+    .heading1{
+        font-weight: 900;
+        font-size: 15px;
+    }
+    .heading{
+        font-size: 13px;
+    }
+    /* .text2{
+        padding-top: 90px;
+    } */
+}
